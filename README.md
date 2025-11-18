@@ -1,3 +1,7 @@
+UPDATE: In general I have moved away from LiteX in favor of a more modern Amaranth workflow. This repository is not maintained.
+
+To achieve something similar, take a look at [the Tiliqua project](https://github.com/apfaudio/tiliqua/tree/main/gateware/src/tiliqua/usb_audio)
+
 # Eurorack PMOD - USB Soundcard
 
 This project allows a [`eurorack-pmod`](https://github.com/apfelaudio/eurorack-pmod) to be used as an 8-channel (4in + 4out) USB2 sound card. Currently it has the following limitations:
